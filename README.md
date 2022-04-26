@@ -7,7 +7,8 @@ Lenguaje de definición de Datos
 
  # UNIDAD 14 EJERCICIO 4 (DEPARTAMENTOS)
 
-[Captura de pantalla 2022-04-26 104009](https://user-images.githubusercontent.com/97692045/165300651-a75d439b-db3b-4567-ae21-c0a36f693805.jpg)
+![Captura de pantalla 2022-04-26 104009](https://user-images.githubusercontent.com/97692045/165301064-c38a3754-1cfc-4ff0-bc65-cccea4c875b1.jpg)
+
 
 # UNIDAD 14 EJERCICIO 8 (SUMINISTRA)
 
