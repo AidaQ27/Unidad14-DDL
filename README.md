@@ -40,3 +40,7 @@ Lenguaje de definición de Datos
 # Ejercicio_12_UD14 (ACADEMIA DE IDIOMAS)
 
 ![Captura de pantalla 2022-04-26 133742](https://user-images.githubusercontent.com/97692045/165300783-38cc38c9-da09-4837-8a90-028582c4f1f3.jpg)
+
+# Ejercicio 16 UD12 (TWITTER)
+
+![Ejercicio_16_UD12](https://user-images.githubusercontent.com/47026018/165511541-2e6b7a89-2b40-4522-9b18-a13230d0a81c.PNG)
