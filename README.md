@@ -37,6 +37,10 @@ Lenguaje de definición de Datos
 
 ![Ejercicio_11_UD14](https://user-images.githubusercontent.com/47026018/165510386-d60e866e-557f-4502-aadb-413a1793efb2.PNG)
 
+# Ejercicio_12_UD12 (PROYECTOS)
+
+![Ejercicio_12_UD12_capturaDiagrama](https://user-images.githubusercontent.com/67373492/165549921-17238989-fb0b-4c3e-9d5d-b87bb41617da.PNG)
+
 # Ejercicio_12_UD14 (ACADEMIA DE IDIOMAS)
 
 ![Captura de pantalla 2022-04-26 133742](https://user-images.githubusercontent.com/97692045/165300783-38cc38c9-da09-4837-8a90-028582c4f1f3.jpg)
