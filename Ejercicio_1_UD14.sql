@@ -1,0 +1,22 @@
+CREATE DATABASE UD14_EJ1;
+
+USE UD14_EJ1;
+
+CREATE TABLE estacion(
+id MEDIUMINT UNSIGNED PRIMARY KEY,
+latitud VARCHAR(15) NOT NULL,
+longitud VARCHAR(15) NOT NULL,
+altitud MEDIUMINT NOT NULL);
+
+CREATE TABLE muestra(
+id int PRIMARY KEY,
+fecha VARCHAR(15) NOT NULL,
+temperatura_minima VARCHAR(15) NOT NULL,
+precipitaciones SMALLINT UNSIGNED,
+humedad_minima TINYINT UNSIGNED,
+humedad_maxima TINYINT UNSIGNED,
+velocidad_viento_minima SMALLINT UNSIGNED,
+velocidad_viento_maxima SMALLINT UNSIGNED,
+id_estacion MEDIUMINT UNSIGNED,
+FOREIGN KEY (id_estacion) REFERENCES estacion(id)
+ON DELETE CASCADE ON UPDATE CASCADE);

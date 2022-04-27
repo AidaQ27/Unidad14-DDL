@@ -1,0 +1,72 @@
+CREATE DATABASE UD14_EJ2;
+
+USE UD14_EJ2;
+
+CREATE TABLE editorial (
+id SMALLINT AUTO_INCREMENT PRIMARY KEY,
+nombre VARCHAR(60),
+direccion VARCHAR(60),
+telefono VARCHAR(15));
+
+CREATE TABLE libro (
+id int AUTO_INCREMENT PRIMARY KEY,
+titulo VARCHAR(80),
+idioma VARCHAR(15),
+id_editorial SMALLINT,
+FOREIGN KEY (id_editorial) REFERENCES editorial (id)
+ON DELETE CASCADE ON UPDATE CASCADE);
+
+CREATE TABLE tema (
+id INT AUTO_INCREMENT PRIMARY KEY,
+nombre VARCHAR(40));
+
+CREATE TABLE autor (
+id INT AUTO_INCREMENT PRIMARY KEY,
+nombre VARCHAR(60));
+
+CREATE TABLE ejemplar (
+id INT AUTO_INCREMENT PRIMARY KEY,
+id_libro INT NOT NULL,
+num_orden SMALLINT UNSIGNED NOT NULL,
+edicion SMALLINT UNSIGNED ,
+ubicacion VARCHAR(15),
+categoria CHAR,
+FOREIGN KEY (id_libro) REFERENCES libro(id)
+ON DELETE CASCADE ON UPDATE CASCADE);
+
+CREATE TABLE socio(
+id INT AUTO_INCREMENT PRIMARY KEY,
+nombre VARCHAR(60),
+telefono VARCHAR(15),
+categoria CHAR);
+
+CREATE TABLE prestamo (
+id_socio INT,
+id_ejemplar INT,
+numero_orden SMALLINT,
+fecha_prestamo DATE NOT NULL,
+fecha_devolucion DATE,
+notas VARCHAR(255),
+PRIMARY KEY (id_socio, id_ejemplar),
+FOREIGN KEY (id_socio) REFERENCES socio(id)
+ON UPDATE CASCADE ON DELETE CASCADE,
+FOREIGN KEY (id_ejemplar) REFERENCES ejemplar(id)
+ON UPDATE CASCADE ON DELETE CASCADE);
+
+CREATE TABLE trata_sobre (
+id_libro INT NOT NULL,
+id_tema INT NOT NULL,
+PRIMARY KEY (id_libro, id_tema),
+FOREIGN KEY (id_libro) REFERENCES libro(id)
+ON UPDATE CASCADE ON DELETE CASCADE,
+FOREIGN KEY (id_tema) REFERENCES tema(id)
+ON UPDATE CASCADE ON DELETE CASCADE);
+
+CREATE TABLE escrito_por (
+id_libro INT,
+id_autor INT,
+PRIMARY KEY (id_libro, id_autor),
+FOREIGN KEY (id_libro) REFERENCES libro(id)
+ON UPDATE CASCADE ON DELETE CASCADE,
+FOREIGN KEY (id_autor) REFERENCES autor(id)
+ON UPDATE CASCADE ON DELETE CASCADE);
