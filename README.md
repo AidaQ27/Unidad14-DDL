@@ -16,7 +16,7 @@ Lenguaje de definición de Datos
 
 ![Captura de pantalla 2022-04-26 112053](https://user-images.githubusercontent.com/97692045/165300715-282b3d73-9997-472d-b65c-cc3ad8d9aa9b.jpg)
 
-# Ejercicio_9_UD14 (LOS CIENTIFICOS)
+# Ejercicio_9_UD14 (LOS CIENTÍFICOS)
 
 ![Ejercicio 9_UD14](https://user-images.githubusercontent.com/103039385/165475668-c73a7dfd-b2ea-4291-a8d1-aa1481f1ace9.PNG)
 
