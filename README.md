@@ -37,9 +37,9 @@ Lenguaje de definición de Datos
 
 ![Ejercicio_11_UD14](https://user-images.githubusercontent.com/47026018/165510386-d60e866e-557f-4502-aadb-413a1793efb2.PNG)
 
-# Ejercicio_12_UD12 (PROYECTOS)
+# Ejercicio_12_UD12 (PROYECTOS EMPRESAS)
 
-![Ejercicio_12_UD12_capturaDiagrama](https://user-images.githubusercontent.com/67373492/165549921-17238989-fb0b-4c3e-9d5d-b87bb41617da.PNG)
+![ejercici12_diagrama](https://user-images.githubusercontent.com/67373492/165553750-482c0624-9883-4355-b783-a2e74a6e4839.svg)
 
 # Ejercicio_12_UD14 (ACADEMIA DE IDIOMAS)
 
