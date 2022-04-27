@@ -17,6 +17,11 @@ Lenguaje de definición de Datos
 
 ![Biblioteca EJ06](https://user-images.githubusercontent.com/97692045/165299585-3de56ce0-2347-4bf5-860c-22702c29ab43.jpg)**
 
+# Ejercicio_7_UD13 (DIRECTORES)
+
+![Ejercicio_7_UD14](https://user-images.githubusercontent.com/47026018/165494738-ae99292e-bc81-4037-93fb-afa493f0d61a.PNG)
+
+
 # Ejercicio_8_UD14 (SUMINISTRA)
 
 ![Captura de pantalla 2022-04-26 112053](https://user-images.githubusercontent.com/97692045/165300715-282b3d73-9997-472d-b65c-cc3ad8d9aa9b.jpg)
