@@ -65,9 +65,9 @@ INSERT INTO trabajador (codigo_trabajador, nombre, descripcion, dni) VALUES
 ("t231", "Pepe", "El trabajador Pepe", "04278667T");
 
 INSERT INTO trabajar (id_proyecto, codigo_trabajador, horas_trabajadas) VALUES
-(9, "t229", 0),
-(10, "t230", 0),
-(11, "t231", 20);
+(1, "t229", 0),
+(2, "t230", 0),
+(3, "t231", 20);
 
 INSERT INTO profesion (codigo_profesion, nombre) VALUES
 ("P1", "Programador"),
