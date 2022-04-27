@@ -39,7 +39,7 @@ Lenguaje de definición de Datos
 
 # Ejercicio_12_UD12 (PROYECTOS EMPRESAS)
 
-![ejercici12_diagrama](https://user-images.githubusercontent.com/67373492/165553750-482c0624-9883-4355-b783-a2e74a6e4839.svg)
+![Ejercicio_12_UD12_capturaDiagrama](https://user-images.githubusercontent.com/67373492/165554157-e406d05b-f4ec-404f-9201-1cec60856297.PNG)
 
 # Ejercicio_12_UD14 (ACADEMIA DE IDIOMAS)
 
