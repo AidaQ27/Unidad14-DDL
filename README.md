@@ -1,6 +1,10 @@
 # Unidad 14-DDL
 Lenguaje de definición de Datos
 
+ # Ejercicio_3_UD14 (TIENDA INFORMATICA)
+ 
+ ![Ejercicio 3 UD14](https://user-images.githubusercontent.com/47026018/165484438-e93704d7-a984-4608-8cca-368b9ba75f37.PNG)
+
  # Ejercicio_4_UD14 (DEPARTAMENTOS)
 
 ![Captura de pantalla 2022-04-26 104009](https://user-images.githubusercontent.com/97692045/165301064-c38a3754-1cfc-4ff0-bc65-cccea4c875b1.jpg)
