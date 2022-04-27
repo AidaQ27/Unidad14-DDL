@@ -1,6 +1,14 @@
 # Unidad 14-DDL
 Lenguaje de definición de Datos
 
+# Ejercicio_1_UD14 (METEO)
+
+![Ejercicio_1_UD14_capturaDiagrama](https://user-images.githubusercontent.com/67373492/165587398-9a8f8520-96ce-4d03-ad37-90fa84d575a8.PNG)
+
+# Ejercicio_2_UD14 (BIBLIOTECA V1)
+
+![Ejercicio_2_UD14_Diagrama](https://user-images.githubusercontent.com/67373492/165587302-9ef9e259-a58a-4a76-9c47-7a3ed6038ebb.PNG)
+
 # Ejercicio_3_UD14 (TIENDA INFORMATICA)
  
 ![Ejercicio 3 UD14](https://user-images.githubusercontent.com/47026018/165484438-e93704d7-a984-4608-8cca-368b9ba75f37.PNG)
