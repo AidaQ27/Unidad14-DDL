@@ -1,16 +1,17 @@
 # Unidad 14-DDL
 Lenguaje de definición de Datos
 
- # Ejercicio_6_UD12 BILBIOTECA V2
-
-![Biblioteca EJ06](https://user-images.githubusercontent.com/97692045/165299585-3de56ce0-2347-4bf5-860c-22702c29ab43.jpg)
-
  # Ejercicio_4_UD14 (DEPARTAMENTOS)
 
 ![Captura de pantalla 2022-04-26 104009](https://user-images.githubusercontent.com/97692045/165301064-c38a3754-1cfc-4ff0-bc65-cccea4c875b1.jpg)
+
 # Ejercicio_5_UD14 (LOS ALMACENES)
 
 ![Ejercicio 5_UD14](https://user-images.githubusercontent.com/103039385/165475472-63caa969-2c74-4500-a81c-6c58c221ab94.PNG)
+
+# Ejercicio_6_UD12 BILBIOTECA V2
+
+![Biblioteca EJ06](https://user-images.githubusercontent.com/97692045/165299585-3de56ce0-2347-4bf5-860c-22702c29ab43.jpg)**
 
 # Ejercicio_8_UD14 (SUMINISTRA)
 
