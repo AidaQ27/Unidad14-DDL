@@ -27,6 +27,3 @@ FOREIGN KEY (id_proveedor) REFERENCES proveedores(id_proveedor)
 ON DELETE CASCADE ON UPDATE CASCADE,
 precio int
 );
-
-/*Para borrar tabla*/
-DROP TABLE suministra;
