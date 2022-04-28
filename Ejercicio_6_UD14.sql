@@ -1,0 +1,14 @@
+CREATE DATABASE UD14_EJ6;
+
+USE UD14_EJ6;
+
+CREATE TABLE peliculas(
+id INT PRIMARY KEY,
+nombre VARCHAR(100) NOT NULL,
+calificacion_edad INT);
+
+CREATE TABLE salas(
+id INT PRIMARY KEY,
+nombre VARCHAR(100) NOT NULL,
+pelicula INT,
+FOREIGN KEY (pelicula) REFERENCES peliculas(id));
